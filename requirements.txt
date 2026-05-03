@@ -1,0 +1,6 @@
+gradio
+python-docx
+beautifulsoup4
+openai
+pymupdf
+markdown
